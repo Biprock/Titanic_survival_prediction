@@ -30,4 +30,7 @@ The <b>pred.csv</b> contains the predicted survival information.
 - <b>Embarked:</b> Embarked implies where the traveler mounted from. There are three possible values for Embark — Southampton(S), Cherbourg(C), and Queenstown(Q).<br><br>
   <img src = "/image/embarked.png" style="width:400px;"><br><br>
 <h3>Our model predicts 82% of the time, a passengers survival correctly</h3><br><br>
+
 ## Get in Touch 😊
+<a href="https://www.linkedin.com/in/biprajit-suklabaidya-9950b1208/"><img src ="/linkedin.png" style="width:40px;"></a>
+<a href="https://github.com/Biprock"><img src ="/github.png" style="width:40px;"></a>
